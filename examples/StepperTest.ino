@@ -7,7 +7,7 @@ Version 0.1, 05/16/2015
 */
 
 // include the library to your code
-#include "vma03Stepper.h"
+#include "VMA03Stepper.h"
 
 /*
 vma03Stepper( byte pwmaPin, byte diraPin, 
